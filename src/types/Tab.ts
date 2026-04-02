@@ -5,5 +5,5 @@ export interface Tab {
 }
 
 export interface TabsProp {
-  tabs: Tab[]
+  tabs: Tab[];
 }
